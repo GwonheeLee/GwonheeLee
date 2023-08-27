@@ -1,4 +1,6 @@
-### Hi!
+<div align=center><h1>&#9989; Experiences</h1></div>
 
-- [Profile](https://okja.notion.site/67dfd632ecc847dab682ad3bad08f3ec)
-- [Linkedin](https://www.linkedin.com/in/okja/)
+<div align=center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GwonheeLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+      <br>
+</div>
